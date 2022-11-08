@@ -1,0 +1,4 @@
+name: Testo
+version: '${project.version}'
+main: me.infinity.testo.Testo
+softdepend: [ BedWars1058-GroupStats ]
